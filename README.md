@@ -11,6 +11,7 @@ In the factory, robotic arms dispatch packages into different stacks based on th
   - A package is considered bulky if:
       - Its volume is greater than or equal to 1,000,000 cm³, OR
       - Any of its dimensions (width, height, or length) is greater than or equal to 150 cm.
+
 **2. Heavy Packages:**
   - A package is considered heavy if its mass is greater than or equal to 20 kg.
 
