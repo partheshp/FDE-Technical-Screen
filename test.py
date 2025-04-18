@@ -1,5 +1,3 @@
-# test_sort_packages.py
-
 import unittest
 from sort_packages import sort  # Import the function from sort_packages.py
 
